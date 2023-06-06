@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3ee6997.css",
+    "main.js": "/static/js/main.2ba2635a.js",
+    "static/media/competent-team-with-thumbs-up.jpg": "/static/media/competent-team-with-thumbs-up.09e12a3c23585981c0b4.jpg",
+    "static/media/about-as-service-contact-information-concept.jpg": "/static/media/about-as-service-contact-information-concept.1f00b944f16a33760edf.jpg",
+    "static/media/register-enquiry-online-web-page-concept.jpg": "/static/media/register-enquiry-online-web-page-concept.acf632a634516ea5bdd9.jpg",
+    "static/media/banner2.png": "/static/media/banner2.0692400846c7566d7115.png",
+    "static/media/banner4.png": "/static/media/banner4.ea995afecb273ec9b87d.png",
+    "static/media/banner3.png": "/static/media/banner3.6e7c442a42446b445e76.png",
+    "static/media/banner1.png": "/static/media/banner1.f346b4c855c5194ce6fd.png",
+    "static/media/offer.png": "/static/media/offer.d2a8d41f83a101a88e20.png",
+    "static/media/pngkit.png": "/static/media/pngkit.d128c5b8f20107d78422.png",
+    "index.html": "/index.html",
+    "main.d3ee6997.css.map": "/static/css/main.d3ee6997.css.map",
+    "main.2ba2635a.js.map": "/static/js/main.2ba2635a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3ee6997.css",
+    "static/js/main.2ba2635a.js"
+  ]
+}
